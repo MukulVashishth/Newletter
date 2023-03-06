@@ -8,7 +8,7 @@ const app = express();
 
 // Setup of Mailchimp
 mailchimp.setConfig({
-    apiKey: "39c2329383fa58dfe9f550868130052-us13",
+    apiKey: "839c2329383fa58dfe9f550868130052-us13",
     server: "us13",
   });
 
